@@ -6,7 +6,6 @@ A Python application that aggregates real-time Bitcoin (BTC) pricing data from m
 
 - Python 3.7 or higher
 - pip (Python package installer)
-- Internet connection for API calls
 
 To check if Python is installed:
 ```bash
