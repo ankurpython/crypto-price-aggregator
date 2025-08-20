@@ -66,8 +66,8 @@ python crypto_pricing.py --qty 25.75
 
 ### Example Output
 ```
-To buy 10 BTC: $430,250.75
-To sell 10 BTC: $429,180.25
+To buy 10 BTC: $1,126,888.25
+To sell 10 BTC: $1,126,210.96
 ```
 
 
